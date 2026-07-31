@@ -5,7 +5,7 @@
 %global crate dtoa
 
 Name:           rust-%{crate}
-Version:        0.4.5
+Version:        1.0.11
 Release:        1%{?dist}
 Summary:        Fast functions for printing floating-point primitives to an io::Write
 
